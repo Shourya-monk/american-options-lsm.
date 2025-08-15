@@ -35,7 +35,7 @@ Installation
 
 Clone the repository:
 
-git clone https://github.com/YourUsername/american-options-lsm.git
+git clone https://github.com/Shourya-Monk/american-options-lsm.git
 cd american-options-lsm
 
 
